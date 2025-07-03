@@ -1,13 +1,5 @@
 # ChatGPT Magic Storybook
-The ChatGPT Magic Storybook is a complex engineering feet that combines Artifical Intelligence with Python coding. It is designed to allow, 
-
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
-
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
+The ChatGPT Magic Storybook is a complex engineering project that is designed to allow users to generate a AI created fictional story based on a user input. The project uses the capabilities of the Raspberry Pi Software System to create a display that can be coded to take user input and be sent to ChatGPT to process using an API key. However, despite the project sounding easy, I faced many technincal difficulties throughout the project, including trouble oning the Raspberry Pi, my libraries not working, and the struggle to add a keyboard system. Still, despite that, I perservered through, working around my problems by using my resources and being patient.
 
 | **Akshita S** | **Mountain House High School** | **Computer Science | CyberSecurity** | **Incoming Senior** |
 
@@ -21,31 +13,20 @@ You should comment out all portions of your portfolio that you have not complete
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-
+For my final milestone, I managed to get the keyboard to function, allowing me to complete my project. At first, I tried to create a keyboard using pygame however, when that didn't work, I decided to switch to the Vkeyboard library, which was more of a success. Eventually, once I got the keyboard button to function and added to enter button, I finished my ChatGPT Magic Storybook project. Despite the struggles I faced to complete my projects, the 3 weeks I spent in BlueStamp greatly helped me grow as a engineer and coder. I learned a variety of troubleshooting techniques, terminal commands, as well as basics of the Raspberry Pi system. Additionally, I learned about the importance of perseverance and patience when dealing with challenges that are a struggle to overcome. As I continue towards developing my career, I can't wait to continue applying and growing what I learned.
 
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FI-mawsJNe4?si=_PC12QgC-3iuHHPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+For my second milestone, I managed to get the necessary python libraries working for my software code. Due to my systems's unability to find the libraries, I had to manually install each and every single library myself. IT WAS TIRING. At first, I tried Pip install however when that didn't work, I decided to switch to a better package manager: Anaconda. _However, _ that also didn't work due to Anaconda NOT supporting Raspberry Pi, making use switch to Anaconda's little brother, Miniconda. Once I installed Miniconda, I reinstalled all the libraries, but then we faced _another_ issue when installing the Python Speech Recognition library. To put to perspective, the Speech Recogniction library only supports python versions 10 and 11, but I had python version 13, making the systems incompatible. Therefore, we had to switch the user input from vocal input to keyboard input, changing a key part of my project. This modification gave way for the final step in the completion of my project.
 
 # First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D3ggCFwkSOE?si=lFn47m6LgmDwdIsv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For my first milestone, I connected my computer to the raspberry pi. In the span of four days, I faced many challenging rigours of pairing my Windows desktop to the Raspberry Pi operating system. On Monday, I was unable to install the Pi operating system from the Imager due to port incompatibility, resulting in me having to wait a day for an USB cable. Later, on Wednesday, when I install the pi, I tried to SSH my computer to the raspberry pi. However, that did not work. After spending 2 days troubleshooting the problem, we solved it once I connected the raspberry pi to the display. Once connected to the display, we found out that the raspberry pi was not connecting to my home internet, resulting in me having to manually connect it. Once the WiFi was connected, I was able to establish an SSH connection with my computer, solving my week worth long struggle. Due to this accomplishment, a world of possiblites opened for me, allowing me to progress further into the completion of my project. 
+For my first milestone, I connected my computer to the raspberry pi. In the span of four days, I faced many challenging rigours of pairing my Windows desktop to the Raspberry Pi operating system. On Monday, I was unable to install the Pi operating system from the Imager due to port incompatibility, resulting in me having to wait a day for an USB cable. Later, on Wednesday, when I install the pi, I tried to SSH my computer to the raspberry pi. However, that did not work. After spending 2 days troubleshooting the problem, we solved it once I connected the raspberry pi to the display. Once connected to the display, we found out that the raspberry pi was not connecting to my home internet, resulting in me having to manually connect it. Once the WiFi was connected, I was able to establish an SSH connection with my computer, solving my week worth long struggle. Due to this accomplishment, I was allowed to start the software implementation of my project. 
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
@@ -53,7 +34,7 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
-```c++
+```python
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
