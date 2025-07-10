@@ -60,10 +60,7 @@ void loop() {
 | Raspberry Pi 7" Touch Screen Display | What the item is used for | $85.92 | <a href="https://www.amazon.com/Raspberry-Pi-7-Touchscreen-Display/dp/B0153R2A9I/ref=sr_1_3?crid=19RRZQD9S67DT&dib=eyJ2IjoiMSJ9.aL1OKpRoz8hfrCyNs7-hTz4InmT2UBG-dTaTRP4wumB4WNHvjBR5eZYoZItPArRXdzGquf8578gGkqz1o4i3DLem3hDX96jPtO7V7-UJTX7q7CgVLrvhqz8KveRxHAuC89VlHWrIoAhJzWtZyu117vYjfIh9TjHpLg_ujzObFizoE5_B8aJhHH75ltLghA969edKiyymIfA2yaYjj3MkikD-eg-yg4ClX8okxsrkWIFho4LNlolQlTH5CPbZnMGicx-W6dPuHeZ3DuLGb3AyfOr-SJzQiRH8fj4H_TELe3A.MumpIeGcltRJ5GQyNFDl1XqAMIKqOSngK_vEvB5i2TM&dib_tag=se&keywords=7+inch+raspberry+pi&qid=1748991450&s=electronics&sprefix=7+inch+raspberry+pi%2Celectronics%2C139&sr=1-3 "> Link </a> |
 | USB Adapter | What the item is used for | $4.99 | <a href="https://www.amazon.com/Reader-Adapter-Camera-Memory-Wansurs/dp/B0B9R7H765/ref=sr_1_2?crid=3MEQVHP531DE&dd=B-O1-WnNnW5Lq2sO8IIkLtNGzeC2M1AGI-JCm90QnS4%2C&ddc_refnmnt=free&dib=eyJ2IjoiMSJ9.krxmOj1H39tJVM38PBmRJnW35YzDDqIGdU3F97jHt6omRE5ZhWDvwdAi_2XUcK0j3Uyi_FqplJa-eGpzJgryaMhuG3C-O-yzKA-9Ug54I7La5wYvdMrU7wkPmx-arz1CKfttxKjBwfANjnsxaw0v9TEVBRBr64OwcLzGsKLCuHH5Jp8odkzjIc_8dSk7pv45Y4GSJ_XvYZ5ETaaXI5_nZXohd1MTGkr51XsGEOvQdNI.pZB6gFBJP2fqUzkGJDyCG3sR0G0Pj4hwswTH9WdB_CY&dib_tag=se&keywords=sd+to+usb+adapter&qid=1750106002&refinements=p_101%3A19346686011&rnid=19346684011&sprefix=sd+to+usb%2Caps%2C113&sr=8-2 "> Link </a> |
 
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
-To watch the BSE tutorial on how to create a portfolio, click here.
+# Other Resources
+- [Resource 1](https://www.raspberrypi.com/software/)
+- [Resource 2](https://learn.adafruit.com/magic-storybook-with-chatgpt?view=all)
+- [Resource 3](https://github.com/baaron4/pygame_vkeyboard/blob/master/pygame_vkeyboard/vkeyboard.py)
