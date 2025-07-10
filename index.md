@@ -29,7 +29,7 @@ For my second milestone, I managed to get the necessary python libraries working
 For my first milestone, I connected my computer to the raspberry pi. In the span of four days, I faced many challenging rigours of pairing my Windows desktop to the Raspberry Pi operating system. On Monday, I was unable to install the Pi operating system from the Imager due to port incompatibility, resulting in me having to wait a day for an USB cable. Later, on Wednesday, when I install the pi, I tried to SSH my computer to the raspberry pi. However, that did not work. After spending 2 days troubleshooting the problem, we solved it once I connected the raspberry pi to the display. Once connected to the display, we found out that the raspberry pi was not connecting to my home internet, resulting in me having to manually connect it. Once the WiFi was connected, I was able to establish an SSH connection with my computer, solving my week worth long struggle. Due to this accomplishment, I was allowed to start the software implementation of my project. 
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+![Headstone Image](Schemetics.png)
 
 # Code
 ```python
