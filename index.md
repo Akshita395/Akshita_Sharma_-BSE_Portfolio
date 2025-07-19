@@ -5,13 +5,13 @@ The ChatGPT Magic Storybook is a complex engineering project that is designed to
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](logo.svg)
+![Headstone Image](IMG_7492.jpg)
   
 # Final Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0RRE5DafB-E?si=oz3gPsZYyMhpTn1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my final milestone, I managed to get the keyboard to function, allowing me to complete my project. At first, I tried to create a keyboard using pygame however, when that didn't work, I decided to switch to the Vkeyboard library, which was more of a success. Eventually, once I got the keyboard button to function and added to enter button, I finished my ChatGPT Magic Storybook project. Despite the struggles I faced to complete my projects, the 3 weeks I spent in BlueStamp greatly helped me grow as a engineer and coder. I learned a variety of troubleshooting techniques, terminal commands, as well as basics of the Raspberry Pi system. Additionally, I learned about the importance of perseverance and patience when dealing with challenges that are a struggle to overcome. As I continue towards developing my career, I can't wait to continue applying and growing what I learned.
 
